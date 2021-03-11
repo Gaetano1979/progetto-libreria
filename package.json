@@ -1,0 +1,27 @@
+{
+  "name": "progetto-libreria",
+  "version": "1.0.0",
+  "description": "prima prova della libreria type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-tsc": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaetano1979/progetto-libreria.git"
+  },
+  "keywords": [],
+  "author": "Gaetano Sabino <gaetano.sabino@baseweb.space>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaetano1979/progetto-libreria/issues"
+  },
+  "homepage": "https://github.com/Gaetano1979/progetto-libreria#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@tsconfig/node12": "^1.0.7"
+  }
+}
